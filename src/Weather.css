@@ -29,6 +29,10 @@
 .Weather .clearfix {
   display: flex;
 }
+.Weather canvas {
+  margin-top: 5px;
+  margin-right: 5px;
+}
 .Weather .temperature {
   font-weight: bold;
   color: rgb(33, 33, 33);
